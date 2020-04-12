@@ -28,9 +28,9 @@ Step 1: ``` cd im2txt ```
 Step 2: ``` python im2txt.py ``` 
 
 ### Results
-```
-Captions for image cycling.jpg:
+![a person riding cycle](https://github.com/Akashtyagi08/Pretrained-im2txt-single_instance/blob/master/images/cycling.jpg)
 
+```
 Captions for image cycling.jpg:
   0) a person riding a bike on a city street (p=0.003317)
   1) a man riding a bike down a street . (p=0.000723)
