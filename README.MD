@@ -15,7 +15,7 @@ load using object creation with loading the checkpoint just once.
 First ensure that you have installed the following required packages:
 
 * **Python 3.6** or greater
-* **TensorFlow** 1.0 or greater ([instructions](https://www.tensorflow.org/install/))
+* **TensorFlow** Below 2.0(Ideal 1.15) ([instructions](https://www.tensorflow.org/install/))
 * **NumPy** ([instructions](http://www.scipy.org/install.html))
 * **Natural Language Toolkit (NLTK)**:
     * First install NLTK ([instructions](http://www.nltk.org/install.html))
