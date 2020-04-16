@@ -50,7 +50,7 @@ class Captioning:
                 sentence = " ".join(sentence)
                 result_set[str(count)]={"Sentence":sentence,"confidence":prob}
                 print("  %d) %s (p=%f)" % (i, sentence, math.exp(caption.logprob)))
-        os.unlink(filename)
+        #os.unlink(filename)
         return result_set
                 
     def close_session(self):
