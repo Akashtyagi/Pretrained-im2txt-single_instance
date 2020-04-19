@@ -38,3 +38,5 @@ Captions for image cycling.jpg:
 ```
 
 Reference tensorflow model - [Tensorflow: Show and Tell](https://github.com/tensorflow/models/tree/master/research/im2txt)
+
+If you find the repository useful, you can Star it as an appreciation.
